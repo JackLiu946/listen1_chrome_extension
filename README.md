@@ -1,4 +1,4 @@
-Listen 1(Listen to LG) (Chrome Extension) （最后更新于7月24日）
+Listen 1(Listen to LG,one for all free music in china (chrome extension, also works for firefox) ) (Chrome Extension) （最后更新于7月24日）
 ==========
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
